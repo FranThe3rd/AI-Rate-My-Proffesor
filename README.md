@@ -9,3 +9,9 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+# ENV:
+
+##### OPEN_AI_API_KEY=
+
+##### PINECONE_API_KEY=
